@@ -1,0 +1,60 @@
+{
+  "files.associations": {
+    "iomanip": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "new": "cpp",
+    "vector": "cpp",
+    "array": "cpp",
+    "*.tcc": "cpp",
+    "bitset": "cpp",
+    "string": "cpp",
+    "exception": "cpp",
+    "functional": "cpp",
+    "istream": "cpp",
+    "limits": "cpp",
+    "ratio": "cpp",
+    "sstream": "cpp",
+    "streambuf": "cpp",
+    "regex": "cpp",
+    "map": "cpp",
+    "stdio.h": "c",
+    "string.h": "c",
+    "type_traits": "c",
+    "deque": "c",
+    "unordered_map": "c",
+    "memory": "c",
+    "fstream": "c",
+    "tuple": "c"
+  },
+  "C_Cpp.errorSquiggles": "EnabledIfIncludesResolve",
+  "C_Cpp_Runner.cCompilerPath": "C:/MinGW/bin/gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "g++",
+  "C_Cpp_Runner.debuggerPath": "gdb",
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": true,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ]
+}
